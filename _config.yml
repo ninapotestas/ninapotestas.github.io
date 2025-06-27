@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : Nina Rietta Potestas
+  name             : "Nina Rietta Potestas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an Electrical Engineering Student"
   location         : "Canyon, Texas"
