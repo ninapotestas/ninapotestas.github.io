@@ -10,7 +10,18 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+# This tells Jekyll to process Markdown files inside the _pages folder
 include: ["_pages"]
+
+# These defaults apply to all files inside _pages/
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single          # Use the 'single' layout from Minimal Mistakes
+      author_profile: true    # Show your bio sidebar on these pages
+
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
