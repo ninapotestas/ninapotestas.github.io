@@ -2,11 +2,11 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Smartwatch"
-    url: /smartwatch/
-  - title: "SDR"
-    url: /sdr/
-  - title: "Resume"
-    url: /resume/
+ # - title: "Smartwatch"
+  #  url: /smartwatch/
+  #- title: "SDR"
+   # url: /sdr/
+  #- title: "Resume"
+   # url: /resume/
   # - title: "Sitemap"
   #   url: /sitemap/
