@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Nina Rietta Potestas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a junior electrical engineering student exploring embedded systems, RF, and FPGA design.
+  bio              : "I am a junior electrical engineering student exploring embedded systems, RF, and FPGA design."
   location         : "Canyon, Texas"
   email            : "nr.potestas@gmail.com"
   links:
